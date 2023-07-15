@@ -1,9 +1,3 @@
-Twitter bookmark site move to quickly
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
