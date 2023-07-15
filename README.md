@@ -1,5 +1,4 @@
 # Twitterbookmark-tool
-Customize the Windows10 Context Menu and add "move to Twitter bookmark webpage".
 <br>
 <br>
 <br>
