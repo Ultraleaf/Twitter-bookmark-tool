@@ -16,8 +16,9 @@ https://github.com/Ultraleaf/Twitterbookmark-tool/assets/138953741/d732bc24-7a1d
 
 3. Click "Load unpacked" button and navivigate to the folder you downloaded from GitHub.
 
-4. That's it!
-
-     Happy Coding 💚💚💚💚 
+4. That's it!!
+<br>
+<br>
+Happy Coding 💚💚💚💚 
 
 
